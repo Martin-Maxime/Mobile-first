@@ -1,0 +1,262 @@
+{
+    "vocabulaire": [
+
+ {
+    "a-vue": {
+        "nom": "A-vue",
+        "definition": "réussir à enchaîner une voie dès le premier essai, sans connaître les difficultés. Cet exercice requiert une bonne lecture du rocher et sert de référence pour le niveau maximum d'un grimpeur."
+    },
+    "adhérence": { 
+        "nom": "Adhérence",
+        "definition": "technique qui utilise la poussée du chausson à plat sur une dalle pour supporter le grimpeur là où il n'y a pas de prises de pieds."
+    },
+    "allonge": {
+        "nom": "Allonge",
+        "definition": "une qualité pour aller chercher des prises éloignées, mais aussi un qualificatif pour un grimpeur ou une voie : \" une voie d'allonge \" , c'est-à-dire où les prises sont éloignées les unes des autres."
+    },
+    "apres_le_travail": {
+        "nom": "Après le travail",
+        "definition": "sert à préciser la performance dans le cadre de l'enchaînement d'une voie. Ici, on connaît les mouvements, on a déjà travaillé la voie ; on peut également préciser le nombre d'essais et si les dégaines étaient en place ou non. Voir également \" à-vue \" et \"flash \".",
+    },
+    "arquer": { 
+        "nom": "Arquer",
+        "definition": "c'est remonter les doigts en arc de cercle au- dessus de la prise (généralement une réglette), afin de mieux la tenir. Ce mouvement est utilisé principalement dans des voies difficiles sur des petites prises ou sur pan, lorsque tenir la prise en\" tendu \" ne suffit plus.",
+    },
+    "cachou": {
+        "nom": "Cachou",
+        "definition": "nom donné à une prise minuscule pour les doigts ou pour les pieds.",
+    },
+    "croiser": {
+        "nom": "Croiser",
+        "definition": "mouvement qui oblige le grimpeur à passer une main (ou un pied) par-dessus l'autre pour aller chercher la prise suivante. Logiquement, le mouvement qui suit s'appelle un décroisé.",
+    },
+    "crux": { 
+        "nom": "Crux",
+        "definition": "passage clef d'une longueur ou d'une voie.",
+    },
+    "dulfer": {
+        "nom": "Dülfer",
+        "definition": "alpiniste allemand qui a donné son nom à une technique d'opposition permettant de remonter les fissures, les écailles.",
+    },
+    "desescalade": {
+        "nom": "Désescalade",
+        "definition": "descendre une voie par le chemin où l'on est monté. Discipline pratiquée pour l'échauffement dans des voies faciles ou par les amateurs de solo qui ne peuvent redescendre avec la corde.",
+    },
+    "diedre": {
+        "nom": "Dièdre",
+        "definition": "passage où les parois de la falaise se rapprochent pour former un angle que les grimpeurs utilisent dans leur progression, en opposant les pieds et les mains alternativement.",
+    },
+    "jeter": { 
+        "nom": "Jeter",
+        "definition": "mouvement (très) dynamique qui consiste à aller chercher une prise hors de portée en décollant une ou deux mains, et un ou deux pieds. On rencontre peu de jeté obligatoires en dehors de l'escalade sur résine, et ils se trouvent généralement dans des voies de haute difficulté.",
+    },
+    "pied-main": {
+        "nom": "Pied-main",
+        "definition": "mouvement où le pied va prendre la place de la main sur la prise.",
+    },
+    "Variante": {
+        "nom": "Variante",
+        "definition": "méthode ou itinéraire différent utilisé pour sortir une voie.",
+    },
+    "a-doigts": { 
+        "nom": "A doigts",
+        "definition": "une escalade ou un passage qui nécessite de la force dans les doigts.",
+    },
+    "a-la-rue": {
+        "nom": "A la rue",
+        "definition": "dépassé par le niveau de la voie ou n'ayant pas trouvé les bonnes méthodes, le grimpeur à la rue ou à l'envers est un candidat potentiel au plomb.",
+    },    
+    "acide-lactique": {
+        "nom": "Acide lactique",
+        "definition": "ou lactate, ses molécules donnent une belle forme de bouteille a vos avant-bras.",
+    },
+    "affute": {
+        "nom": "Affuté(ée)",
+        "definition": "se dit d'un sportif en général et d'un grimpeur en particulier en grande forme physique.",
+    },
+    "aile-de-poulet": { 
+        "nom": "Aile de poulet",
+        "definition": "allure caractéristique du grimpeur qui ne tient plus les prises : juste avant la chute ses bras remontent et les doigts s'ouvrent…",
+    },
+    "aleatoire": {
+        "nom": "Aléatoire",
+        "definition": "état d'un mouvement ou d'une voie qui ne peut se réaliser de manière certaine : mouvements dynamiques ou de jetés.",
+    },
+    "ambiance": {
+        "nom": "Ambiance",
+        "definition": "contexte extérieur qui caractérise une voie : beauté du site, vide, .etc.",
+    },
+    "anneau": { 
+        "nom": "Anneau",
+        "definition": "de sangle ou de corde(lette), indispensable au falaisiste.",
+    },
+    "artificielle": {
+        "nom": "Artificielle (escalade)",
+        "definition": "en l'absence de prises sur le rocher, la progression du grimpeur est facilitée par des points d'aide artificiels (pitons, spits, coinceurs) utilisés en tire-clous ou pour poser des étriers ou des échelles.
+L'artif. a un système de cotation qui lui est propre : de A0 à A5 selon la difficulté et l'engagement.",
+    },    
+    "aseptise": {
+        "nom": "Aseptisé(e)",
+        "definition": "une voie ( ou un secteur) équipée abondamment qui enlève tout piquant à l'escalade.",
+    },    
+    "avaler": {
+        "nom": "Avaler",
+        "definition": "reprendre le surplus de corde dans les manœuvres d'assurage",
+    },
+    "aplat": {
+        "nom": "Aplat",
+        "definition": "prise horizontale à prendre avec le plat de la main. = plat, platasse.",
+    },
+    "appui": { 
+        "nom": "Appui",
+        "definition": "…du pied ou de la main, l'escalade c'est progresser sur des appuis.",
+    },
+    "assurage": {
+        "nom": "Assurage",
+        "definition": "techniques qui consistent à assurer la protection du grimpeur dans son ascension avec des points d'ancrage ou des protections mobiles (coinceurs, friends), et des dégaines, cordes, baudriers et freins…",
+    },
+    "athletique": {
+        "nom": "Athlétique",
+        "definition": "style d'escalade ou voie qui fait la part belle à l'utilisation des muscles # finesse.",
+    },
+    "avaler": { 
+        "nom": "Avaler (la corde)",
+        "definition": "c'est tirer le mou de la corde jusqu'à ce qu'elle soit tendue.",
+    },
+    "banzai": {
+        "nom": "Banzaï",
+        "definition": "une voie particulièrement engagée ou un style d'escalade \" marche ou crève \"…",
+    },
+    "bartasser": {
+        "nom": "Bartasser",
+        "definition": "errer, galérer sur un chemin d'accès. \" On a bartassé une demi-heure dans les buis avant d'arriver au pied de la voie \"",
+    },
+    "baquet": { 
+        "nom": "Baquet, Bac",
+        "definition": "prise large et profonde, facile à tenir. Syn. \" boîte aux lettres \"",
+    },
+    "baudrier": {
+        "nom": "Baudrier (baudar)",
+        "definition": "harnais sur lequel le grimpeur s'encorde pour être retenu en cas de chute.",
+    },    
+    "bidouiller": {
+        "nom": "Bidouille, bidouiller",
+        "definition": "pouvoir se sortir de toutes les situations, en utilisant les ressources du rocher, mais aussi \" les ficelles du métier \". Les rois de la bidouille sont très à l'aise en terrain d'aventure.
+trafiquer une voie, en la sikatant par exemple (voir aussi larciner).",
+    },    
+    "biscuiter": {
+        "nom": "Biscuit, biscuiter",
+        "definition": "prise confortable (on ne va pas biscuiter sur une réglette) où l'on peut se reposer, c'est parfois aussi une prise qui n'était pas prévue par l'ouvreur, que l'on va chercher à droite ou à gauche de la ligne.",
+    },
+    "bitte": {
+        "nom": "Bitte",
+        "definition": "prise proéminente facile à tenir.",
+    },
+    "bleausard": { 
+        "nom": "Bleau(sard)",
+        "definition": "abréviation de Fontainebleau, désigne un spécialiste du bloc.",
+    },
+    "bloc": {
+        "nom": "Bloc",
+        "definition": "…de pierre ou de résine sur lequel on réalise des pas d'escalade sans assurance (si ce n'est des amis pour vous parer), courts et intenses. Le système de cotation en tient compte, puisqu'il baisse le niveau d'une ou deux lettres.",
+    },
+    "blocage": {
+        "nom": "Blocage",
+        "definition": "mouvement qui consiste à se tenir d'une main sur une prise, le temps pour l'autre d'aller chercher la prise suivante.",
+    },
+    "bombe": { 
+        "nom": "Bombé",
+        "definition": "configuration du rocher qui repousse le grimpeur vers le vide.",
+    },    
+    "baudrier": {
+        "nom": "Baudrier (baudar)",
+        "definition": "harnais sur lequel le grimpeur s'encorde pour être retenu en cas de chute.",
+    },    
+    "bosse": {
+        "nom": "Bosse, bossette",
+        "definition": "relief du rocher.",
+    },    
+    "bourrin": {
+        "nom": "Bourrin, bourriner",
+        "definition": "grimpeur qui se sert exclusivement de sa force musculaire pour progresser",
+    },
+    "bouse": {
+        "nom": "Bouse",
+        "definition": "terme utilisé pour qualifier une voie de peu d'intérêt # majeure.",
+    },
+    "bouteilles": { 
+        "nom": "Bouteilles (avoir les)",
+        "definition": "Avant-bras détruits par l'acide lactique.",
+    },
+    "brouter": {
+        "nom": "Brouter (se)",
+        "definition": "terme utilisé pour un rocher particulièrement agressif qui va attaquer la pulpe des doigts.",
+    },
+    "but": {
+        "nom": "But",
+        "definition": "échec à une tentative, mais aussi par déduction vol dans une voie.",
+    },    
+    "cafiste": { 
+        "nom": "Cafiste",
+        "definition": "adhérent du CAF, à l'éthique Montagne très affirmée.",
+    },    
+    "caisse": {
+        "nom": "Caisse (avoir la)",
+        "definition": "période de grande forme, qui permet de réaliser des perfs.",
+    },    
+    "caker": {
+        "nom": "Caker (recaker)",
+        "definition": "plonger ses mains dans son sac à magnésie.",
+    },    
+    "cancan": {
+        "nom": "Cancan",
+        "definition": "mouvement où la jambe passe en drapeau devant le grimpeur, reproduisant une figure célèbre du music-hall (frou-frous non obligatoires…)",
+    },
+    "canne-a-peche": {
+        "nom": "Canne à pêche",
+        "definition": "bâton télescopique qui permet au grimpeur de mousquetonner des points éloignés en accrochant une dégaine à son extrémité. Cela permet de réduire l'engagement de certaines voies.",
+    },
+    "carre": { 
+        "nom": "Carre (interne ou externe)",
+        "definition": "bord gauche ou droit du chausson qui détermine un placement du corps en conséquence…",
+    },
+    "challenge": {
+        "nom": "Challenge",
+        "definition": "défi que l'on lance aux autres ou à soi-même par rapport une voie.",
+    },
+    "charger": {
+        "nom": "Charger",
+        "definition": "porter tout son poids sur une prise pour éviter de zipper.",
+    },    
+    "chataigne": {
+        "nom": "Chataîgne",
+        "definition": "secousse peu agréable dans un bras ou une épaule due à un pas particuliérement violent, un jeté par exemple.",
+    },    
+    "chemine": {
+        "nom": "Cheminée",
+        "definition": "fissure large dans laquelle on peut introduire le corps, et que l'on remonte en utilisant des techniques d'opposition.",
+    },    
+    "chiquette": {
+        "nom": "Chiquette",
+        "definition": "prise minuscule, certaines sont célèbres \" la chiquette du Graal \" à Buoux",
+    },
+    "circuit": {
+        "nom": "Circuit",
+        "definition": "sur un pan, c'est une succession de mouvements à enchaîner.",
+    },
+    "clipper": { 
+        "nom": "Clipper",
+        "definition": "passer la corde dans le mousqueton pour assurer sa progression.",
+    },
+    "cloguer": {
+        "nom": "Clogage, cloguer",
+        "definition": "francisation de l'anglais clog / crochet : crochetage, crocheter mais en plus tendance…",
+    },
+    "clou": {
+        "nom": "Clou (tirer au)",
+        "definition": "piton, mais aussi par extension, d'autres points d'assurage (golots, spits) qui permettent de franchir un pas dur que l'on ne peut pas réaliser en libre.",
+    },
+}
+]
+}
+  }
